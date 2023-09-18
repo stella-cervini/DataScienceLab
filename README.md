@@ -17,4 +17,4 @@ revealing regional trends, disparities and opportunities.\
 This project provides practical applications that have the potential to have an impact on
 people’s lives. It is possible to image an online service, supported by a sustainable business
 model, that allows users to identify countries that match their aspirations, both current and
-future, whether for permanent residence, travel or investment
+future, whether for permanent residence, travel or investment.
