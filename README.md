@@ -9,9 +9,9 @@ economic (GDP) and demographic (population, birth rates and life expectancy).\
 The essence of this project is not only to assess the present, but also to look into the
 future: using historical data from the past 15 years, our research attempts to predict the
 evolution of these crucial indicators, including the synthetic Life Index. Using **time series
-analysis techniques**, we aspire to offer insights into how these indicators will develop, thus
+analysis techniques (ARIMA)**, we aspire to offer insights into how these indicators will develop, thus
 providing a look into the future direction of nations around the world.\
-Moreover, this research extends beyond the borders of individual nations: using **clustering methodologies**, we tried to uncover patterns and similarities between nations based on
+Moreover, this research extends beyond the borders of individual nations: using **clustering methodologies (K-means)**, we tried to uncover patterns and similarities between nations based on
 these key indicators. In addition, we conducted data aggregations on a continental level,
 revealing regional trends, disparities and opportunities.\
 This project provides practical applications that have the potential to have an impact on
